@@ -1,0 +1,292 @@
+{
+    "mc_versions": {
+        "1.19.2": {
+            "file": "paper-1.19.2.jar",
+            "url": "https://api.papermc.io/v2/projects/paper/versions/1.19.2/builds/119/downloads/paper-1.19.2-119.jar",
+            "args": ["-nogui"],
+            "java_version": "17"
+        },
+        "1.19.1": {
+            "file": "spigot-1.19.1.jar",
+            "url": "https://download.getbukkit.org/spigot/spigot-1.19.1.jar",
+            "args": ["-nogui"],
+            "java_version": "17"
+        },
+        "1.19": {
+            "file": "spigot-1.19.jar",
+            "url": "https://download.getbukkit.org/spigot/spigot-1.19.jar",
+            "args": ["-nogui"],
+            "java_version": "17"
+        },
+        "1.18.2": {
+            "file": "paper-1.18.2.jar",
+            "url": "https://api.papermc.io/v2/projects/paper/versions/1.18.2/builds/387/downloads/paper-1.18.2-387.jar",
+            "args": ["-nogui"],
+            "java_version": "17"
+        },
+        "1.18.1": {
+            "file": "spigot-1.18.1.jar",
+            "url": "https://download.getbukkit.org/spigot/spigot-1.18.1.jar",
+            "args": ["-nogui"],
+            "java_version": "17"
+        },
+        "1.18": {
+            "file": "spigot-1.18.jar",
+            "url": "https://download.getbukkit.org/spigot/spigot-1.18.jar",
+            "args": ["-nogui"],
+            "java_version": "17"
+        },
+        "1.17.1": {
+            "file": "spigot-1.17.1.jar",
+            "url": "https://download.getbukkit.org/spigot/spigot-1.17.1.jar",
+            "args": ["-nogui"],
+            "java_version": "17"
+        },
+        "1.17": {
+            "file": "spigot-1.17.jar",
+            "url": "https://download.getbukkit.org/spigot/spigot-1.17.jar",
+            "args": ["-nogui"],
+            "java_version": "17"
+        },
+        "1.16.5": {
+            "file": "spigot-1.16.5.jar",
+            "url": "https://download.getbukkit.org/spigot/spigot-1.16.5.jar",
+            "args": ["-nogui"],
+            "java_version": "8"
+        },
+        "1.16.4": {
+            "file": "spigot-1.16.4.jar",
+            "url": "https://download.getbukkit.org/spigot/spigot-1.16.4.jar",
+            "args": ["-nogui"],
+            "java_version": "8"
+        },
+        "1.16.3": {
+            "file": "spigot-1.16.3.jar",
+            "url": "https://download.getbukkit.org/spigot/spigot-1.16.3.jar",
+            "args": ["-nogui"],
+            "java_version": "8"
+        },
+        "1.16.2": {
+            "file": "spigot-1.16.2.jar",
+            "url": "https://download.getbukkit.org/spigot/spigot-1.16.2.jar",
+            "args": ["-nogui"],
+            "java_version": "8"
+        },
+        "1.16,1.16.1": {
+            "file": "spigot-1.16.1.jar",
+            "url": "https://download.getbukkit.org/spigot/spigot-1.16.1.jar",
+            "args": ["-nogui"],
+            "java_version": "8"
+        },
+        "1.15.2": {
+            "file": "spigot-1.15.2.jar",
+            "url": "https://download.getbukkit.org/spigot/spigot-1.15.2.jar",
+            "args": ["-nogui"],
+            "java_version": "8"
+        },
+        "1.15.1": {
+            "file": "spigot-1.15.1.jar",
+            "url": "https://download.getbukkit.org/spigot/spigot-1.15.1.jar",
+            "args": ["-nogui"],
+            "java_version": "8"
+        },
+        "1.15": {
+            "file": "spigot-1.15.jar",
+            "url": "https://download.getbukkit.org/spigot/spigot-1.15.jar",
+            "args": ["-nogui"],
+            "java_version": "8"
+        },
+        "1.14.4": {
+            "file": "spigot-1.14.4.jar",
+            "url": "https://download.getbukkit.org/spigot/spigot-1.14.4.jar",
+            "args": ["-nogui"],
+            "java_version": "8"
+        },
+        "1.14.3": {
+            "file": "spigot-1.14.3.jar",
+            "url": "https://download.getbukkit.org/spigot/spigot-1.14.3.jar",
+            "args": ["-nogui"],
+            "java_version": "8"
+        },
+        "1.14.2": {
+            "file": "spigot-1.14.2.jar",
+            "url": "https://download.getbukkit.org/spigot/spigot-1.14.2.jar",
+            "args": ["-nogui"],
+            "java_version": "8"
+        },
+        "1.14.1": {
+            "file": "spigot-1.14.1.jar",
+            "url": "https://download.getbukkit.org/spigot/spigot-1.14.1.jar",
+            "args": ["-nogui"],
+            "java_version": "8"
+        },
+        "1.14": {
+            "file": "spigot-1.14.jar",
+            "url": "https://download.getbukkit.org/spigot/spigot-1.14.jar",
+            "args": ["-nogui"],
+            "java_version": "8"
+        },
+        "1.13.2": {
+            "file": "spigot-1.13.2.jar",
+            "url": "https://download.getbukkit.org/spigot/spigot-1.13.2.jar",
+            "args": ["-nogui"],
+            "java_version": "8"
+        },
+        "1.13.1": {
+            "file": "spigot-1.13.1.jar",
+            "url": "https://download.getbukkit.org/spigot/spigot-1.13.1.jar",
+            "args": ["-nogui"],
+            "java_version": "8"
+        },
+        "1.13": {
+            "file": "spigot-1.13.jar",
+            "url": "https://download.getbukkit.org/spigot/spigot-1.13.jar",
+            "args": ["-nogui"],
+            "java_version": "8"
+        },
+        "1.12.2": {
+            "file": "spigot-1.12.2.jar",
+            "url": "https://download.getbukkit.org/spigot/spigot-1.12.2.jar",
+            "args": ["-nogui"],
+            "java_version": "8"
+        },
+        "1.12.1": {
+            "file": "spigot-1.12.1.jar",
+            "url": "https://download.getbukkit.org/spigot/spigot-1.12.1.jar",
+            "args": ["-nogui"],
+            "java_version": "8"
+        },
+        "1.12": {
+            "file": "spigot-1.12.jar",
+            "url": "https://download.getbukkit.org/spigot/spigot-1.12.jar",
+            "args": ["-nogui"],
+            "java_version": "8"
+        },
+        "1.11.2": {
+            "file": "spigot-1.11.2.jar",
+            "url": "https://download.getbukkit.org/spigot/spigot-1.11.2.jar",
+            "args": ["-nogui"],
+            "java_version": "8"
+        },
+        "1.11.1": {
+            "file": "spigot-1.11.1.jar",
+            "url": "https://download.getbukkit.org/spigot/spigot-1.11.1.jar",
+            "args": ["-nogui"],
+            "java_version": "8"
+        },
+        "1.11": {
+            "file": "spigot-1.11.jar",
+            "url": "https://download.getbukkit.org/spigot/spigot-1.11.jar",
+            "args": ["-nogui"],
+            "java_version": "8"
+        },
+
+        "1.10.1,1.10.2": {
+            "file": "spigot-1.10.2.jar",
+            "url": "https://cdn.getbukkit.org/spigot/spigot-1.10.2-R0.1-SNAPSHOT-latest.jar",
+            "args": ["-nogui"],
+            "java_version": "8"
+        },
+        "1.10": {
+            "file": "spigot-1.10.jar",
+            "url": "https://cdn.getbukkit.org/spigot/spigot-1.10-R0.1-SNAPSHOT-latest.jar",
+            "args": ["-nogui"],
+            "java_version": "8"
+        },
+        "1.9.3,1.9.4": {
+            "file": "spigot-1.9.4.jar",
+            "url": "https://cdn.getbukkit.org/spigot/spigot-1.9.4-R0.1-SNAPSHOT-latest.jar",
+            "args": ["-nogui"],
+            "java_version": "8"
+        },
+        "1.9.1,1.9.2": {
+            "file": "spigot-1.9.2.jar",
+            "url": "https://cdn.getbukkit.org/spigot/spigot-1.9.2-R0.1-SNAPSHOT-latest.jar",
+            "args": ["-nogui"],
+            "java_version": "8"
+        },
+        "1.9": {
+            "file": "spigot-1.9.jar",
+            "url": "https://cdn.getbukkit.org/spigot/spigot-1.9-R0.1-SNAPSHOT-latest.jar",
+            "args": ["-nogui"],
+            "java_version": "8"
+        },
+        "1.8.8": {
+            "file": "spigot-1.8.8.jar",
+            "url": "https://cdn.getbukkit.org/spigot/spigot-1.8.8-R0.1-SNAPSHOT-latest.jar",
+            "java_version": "8"
+        },
+        "1.8.7": {
+            "file": "spigot-1.8.7.jar",
+            "url": "https://cdn.getbukkit.org/spigot/spigot-1.8.7-R0.1-SNAPSHOT-latest.jar",
+            "java_version": "8"
+        },
+        "1.8.6": {
+            "file": "spigot-1.8.6.jar",
+            "url": "https://cdn.getbukkit.org/spigot/spigot-1.8.6-R0.1-SNAPSHOT-latest.jar",
+            "java_version": "8"
+        },
+        "1.8.5": {
+            "file": "spigot-1.8.5.jar",
+            "url": "https://cdn.getbukkit.org/spigot/spigot-1.8.5-R0.1-SNAPSHOT-latest.jar",
+            "java_version": "8"
+        },
+        "1.8.4": {
+            "file": "spigot-1.8.4.jar",
+            "url": "https://cdn.getbukkit.org/spigot/spigot-1.8.4-R0.1-SNAPSHOT-latest.jar",
+            "java_version": "8"
+        },
+        "1.8.1-1.8.3": {
+            "file": "spigot-1.8.3.jar",
+            "url": "https://cdn.getbukkit.org/spigot/spigot-1.8.3-R0.1-SNAPSHOT-latest.jar",
+            "java_version": "8"
+        },
+        "1.8": {
+            "file": "spigot-1.8.jar",
+            "url": "https://cdn.getbukkit.org/spigot/spigot-1.8-R0.1-SNAPSHOT-latest.jar",
+            "java_version": "8"
+        },
+        "1.7.*": {
+            "file": "spigot-1.7.10.jar",
+            "url": "https://cdn.getbukkit.org/spigot/spigot-1.7.10-SNAPSHOT-b1657.jar",
+            "java_version": "8"
+        }
+    },
+
+    "java_versions": {
+        "8": {
+            "home": "C:\\Apps\\Java\\jdk1.8.0",
+            "args": ["-Xmx2G"]
+        },
+        "17": {
+            "home": "C:\\Apps\\Java\\jdk-17.0.3.1",
+            "args": ["-Xmx3G"]
+        }
+    },
+
+    "plugins": {
+        "skinrestorer": {
+            "file": "SkinsRestorer.jar",
+            "url": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/105874986/64e69321-1155-4eb8-9a1a-7347ed093ba1?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220807%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220807T091332Z&X-Amz-Expires=300&X-Amz-Signature=d51cda5a246e79eba3756768e5a0b9c93ff0e6a46fd6d531b0234ccfb3ae0d1e&X-Amz-SignedHeaders=host&actor_id=94607923&key_id=0&repo_id=105874986&response-content-disposition=attachment%3B%20filename%3DSkinsRestorer.jar&response-content-type=application%2Foctet-stream",
+            "mc_versions": "1.8-1.19"
+        },
+        "viaversion": {
+            "file": "ViaVersion.jar",
+            "url": "https://ci.viaversion.com/job/ViaVersion/628/artifact/build/libs/ViaVersion-4.4.1.jar",
+            "mc_versions": "1.7.10-1.19"
+        }
+    },
+
+    "maps": [
+        {
+            "name": "The Orphanage",
+            "world_path": "maps/the-orphanage",
+            "mc_version": "1.7.2"
+        },
+        {
+            "name": "Aliens",
+            "world_path": "maps/aliens",
+            "mc_version": "1.8.3"
+        }
+    ]
+}
