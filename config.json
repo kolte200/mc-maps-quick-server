@@ -255,21 +255,16 @@
 
     "java_versions": {
         "8": {
-            "home": "C:\\Apps\\Java\\jdk1.8.0",
+            "home": "path/to/java8",
             "args": ["-Xmx2G"]
         },
         "17": {
-            "home": "C:\\Apps\\Java\\jdk-17.0.3.1",
+            "home": "path/to/java17",
             "args": ["-Xmx3G"]
         }
     },
 
     "plugins": {
-        "skinrestorer": {
-            "file": "SkinsRestorer.jar",
-            "url": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/105874986/64e69321-1155-4eb8-9a1a-7347ed093ba1?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220807%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220807T091332Z&X-Amz-Expires=300&X-Amz-Signature=d51cda5a246e79eba3756768e5a0b9c93ff0e6a46fd6d531b0234ccfb3ae0d1e&X-Amz-SignedHeaders=host&actor_id=94607923&key_id=0&repo_id=105874986&response-content-disposition=attachment%3B%20filename%3DSkinsRestorer.jar&response-content-type=application%2Foctet-stream",
-            "mc_versions": "1.8-1.19"
-        },
         "viaversion": {
             "file": "ViaVersion.jar",
             "url": "https://ci.viaversion.com/job/ViaVersion/628/artifact/build/libs/ViaVersion-4.4.1.jar",
@@ -279,13 +274,13 @@
 
     "maps": [
         {
-            "name": "The Orphanage",
-            "world_path": "maps/the-orphanage",
+            "name": "Your first map name",
+            "world_path": "path/to/the/folder/of/the/first/map",
             "mc_version": "1.7.2"
         },
         {
-            "name": "Aliens",
-            "world_path": "maps/aliens",
+            "name": "Your second map name",
+            "world_path": "path/to/the/folder/of/the/second/map",
             "mc_version": "1.8.3"
         }
     ]
